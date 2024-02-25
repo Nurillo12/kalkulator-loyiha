@@ -1,0 +1,4 @@
+[[redirects]]
+from = "/*"
+to "/10j.html"
+status = 200
